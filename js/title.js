@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = ["s", "o", "u", "n", "d", "c", "l", "o", "u", "t", "soundclout"];
+var titleText = ["s", "so", "sou", "soun", "sound", "soundc", "soundcl", "soundclo", "soundclou","soundclout"];
 
 function loop(){
 
