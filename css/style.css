@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    background:url(media/background.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
